@@ -146,6 +146,7 @@ This list collects tools related to novel / fiction writing:
 - [Vellum](https://vellum.pub) - The most professional ebook formatting software on Mac; one-click export to multiple ebook formats. (Formatting / Mac / One-time from ~$249)
 - [Atticus](https://www.atticus.io) - Cross-platform web-based formatting and publishing tool; imports Scrivener files directly. (Formatting / Web / One-time $147)
 - [Reedsy Studio](https://reedsy.com/studio) - Free online writing & formatting tool from Reedsy; chapter management, EPUB/PDF export. (Writing+Formatting / Web / Free)
+- [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat or import a manuscript; it writes, illustrates and typesets it, then exports the KDP interior PDF, full-wrap cover PDF, Kindle EPUB and a listing sheet. (AI generation+Formatting / Web / 2,000 free credits at signup, subscription from $25/month)
 
 ---
 
