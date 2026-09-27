@@ -146,6 +146,7 @@
 - [Vellum](https://vellum.pub) - Mac 上最专业的电子书排版软件，一键导出多平台电子书格式。（排版 / Mac / 买断约 $249 起）
 - [Atticus](https://www.atticus.io) - 跨平台网页版排版出版工具，Scrivener 文件可直接导入。（排版 / Web / 买断 $147）
 - [Reedsy Studio](https://reedsy.com/studio) - Reedsy 出品的免费在线写作与排版工具，支持章节管理、导出 EPUB/PDF。（写作+排版 / Web / 免费）
+- [kdpbook.io](https://kdpbook.io) - 面向亚马逊 KDP 的 AI 图书工作室：在对话中描述一本书或导入已有书稿，自动写作、插画、排版，导出 KDP 内页 PDF、整版封面 PDF、Kindle EPUB 与上架信息表。（AI 生成+排版 / Web / 注册送 2000 积分，订阅 $25/月起）
 
 ---
 
