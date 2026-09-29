@@ -89,6 +89,7 @@ This list collects tools related to novel / fiction writing:
 - [Novelcrafter](https://novelcrafter.com) - AI-assisted writing platform that integrates multiple LLMs (OpenAI, Claude, Google, and local KoboldCpp/Ollama); scene-based manuscript management; bring your own API keys. (AI assistance / Web / Subscription)
 - [DeepStory](https://www.deepstory.ai) - AI-assisted fiction writing tool known for its "Story Bible" to keep characters and worldbuilding consistent. (AI assistance / Web / Free trial + subscription)
 - [NovelistAI](https://novelistai.com) - AI novel writing service emphasizing character consistency across chapters. (AI generation / Web / Free tier + subscription)
+- [ImagineYourBook](https://www.imagineyourbook.com) - Author-facing AI app that plans and drafts a full manuscript chapter by chapter, with series story bibles, manuscript rewrite, and Word/EPUB/Markdown export plus a generated cover; drafts need author review. (AI whole-book drafting / Web / Subscription)
 
 > 💡 General LLMs (e.g. Claude, ChatGPT) with good prompts can also cover the whole English novel-writing workflow; see [Communities & Resources](#communities--resources) for prompt libraries.
 

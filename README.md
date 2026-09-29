@@ -89,6 +89,7 @@
 - [Novelcrafter](https://novelcrafter.com) - AI 辅助写作平台，可接入多家大模型（OpenAI、Claude、Google 及本地 KoboldCpp/Ollama），按场景管理文稿，自带模型 API Key 即可用。（AI 辅助 / Web / 订阅）
 - [DeepStory](https://www.deepstory.ai) - AI 辅助虚构写作工具，主打「故事圣经」（Story Bible）维护角色与世界观一致性。（AI 辅助 / Web / 免费试用+订阅）
 - [NovelistAI](https://novelistai.com) - AI 小说写作服务，强调跨章节保持角色一致性。（AI 生成 / Web / 免费层+订阅）
+- [ImagineYourBook](https://www.imagineyourbook.com) - 面向作者的 AI 整书起草应用：按章节规划与起草全书、系列故事圣经、手稿改写，并导出 Word/EPUB/Markdown 与生成封面；草稿需作者审阅。（AI 整书起草 / Web / 订阅）
 
 > 💡 通用大模型（如 Claude、ChatGPT）配合提示词也可完成完整的英文小说创作流程，相关提示词库见[社区与资源](#社区与资源)。
 
