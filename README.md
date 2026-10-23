@@ -121,6 +121,7 @@
 - [Campfire](https://www.campfirewriting.com) - 模块化写作与世界观构建套件，按模块订阅（旧买断版 Campfire Pro 已停售）。（大纲/世界构建 / Web+桌面 / 订阅）
 - [Fictionary](https://fictionary.co) - 完稿后的结构编辑工具，从场景层面分析叙事结构（分析引擎目前仅英文）。（结构编辑 / Web / 试用+订阅）
 - [Novelist](https://play.google.com/store/apps/details?id=it.returntrue.novelist) - 免费的 Android 小说大纲与写作应用。（大纲规划 / Android / 免费）
+- [RelationCanvas](https://relationcanvas.com/) - 面向小说创作者的浏览器角色关系图工具，可分别标注关系的两个方向，支持 PNG/SVG 导出，无需注册。（大纲规划 / Web / 免费）
 
 ---
 
