@@ -121,6 +121,7 @@ This list collects tools related to novel / fiction writing:
 - [Campfire](https://www.campfirewriting.com) - Modular writing and worldbuilding suite, module-based subscription (old one-time "Campfire Pro" discontinued). (Outlining/Worldbuilding / Web+Desktop / Subscription)
 - [Fictionary](https://fictionary.co) - Structural editing tool for finished drafts; analyzes narrative structure scene by scene (analysis engine English-only for now). (Structural editing / Web / Trial + subscription)
 - [Novelist](https://play.google.com/store/apps/details?id=it.returntrue.novelist) - Free Android app for novel outlining and writing. (Outlining / Android / Free)
+- [RelationCanvas](https://relationcanvas.com/) - Browser-based character relationship charts for fiction writers, with separate labels in each direction and PNG/SVG export; no account required. (Outlining / Web / Free)
 
 ---
 
