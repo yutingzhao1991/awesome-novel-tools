@@ -121,6 +121,7 @@
 - [Campfire](https://www.campfirewriting.com) - 模块化写作与世界观构建套件，按模块订阅（旧买断版 Campfire Pro 已停售）。（大纲/世界构建 / Web+桌面 / 订阅）
 - [Fictionary](https://fictionary.co) - 完稿后的结构编辑工具，从场景层面分析叙事结构（分析引擎目前仅英文）。（结构编辑 / Web / 试用+订阅）
 - [Novelist](https://play.google.com/store/apps/details?id=it.returntrue.novelist) - 免费的 Android 小说大纲与写作应用。（大纲规划 / Android / 免费）
+- [Romance Series Planner](https://romance-series-planner.early-giant-7457.chatgpt.site/) - 浏览器端爱情小说大纲与系列设定规划工具，提供完整示例和 Markdown 导出，无需注册。（大纲规划 / Web，英文界面 / 免费）
 
 ---
 
