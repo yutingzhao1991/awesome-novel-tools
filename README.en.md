@@ -121,6 +121,7 @@ This list collects tools related to novel / fiction writing:
 - [Campfire](https://www.campfirewriting.com) - Modular writing and worldbuilding suite, module-based subscription (old one-time "Campfire Pro" discontinued). (Outlining/Worldbuilding / Web+Desktop / Subscription)
 - [Fictionary](https://fictionary.co) - Structural editing tool for finished drafts; analyzes narrative structure scene by scene (analysis engine English-only for now). (Structural editing / Web / Trial + subscription)
 - [Novelist](https://play.google.com/store/apps/details?id=it.returntrue.novelist) - Free Android app for novel outlining and writing. (Outlining / Android / Free)
+- [Castlori Creator Guide](https://guide.castlori.com/) - Castlori platform resource with an English-language five-field scene planner, worked fiction example and printable worksheet; no signup. (Scene planning / Web / Free)
 
 ---
 
