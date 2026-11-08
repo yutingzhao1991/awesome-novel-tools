@@ -122,6 +122,8 @@
 - [Fictionary](https://fictionary.co) - 完稿后的结构编辑工具，从场景层面分析叙事结构（分析引擎目前仅英文）。（结构编辑 / Web / 试用+订阅）
 - [Novelist](https://play.google.com/store/apps/details?id=it.returntrue.novelist) - 免费的 Android 小说大纲与写作应用。（大纲规划 / Android / 免费）
 
+- [Castlori Creator Guide](https://guide.castlori.com/) - Castlori 平台提供的英文五项提示场景规划器，附虚构示例和可打印工作表，无需注册。（平台工具·场景规划 / Web / 免费）
+
 ---
 
 ## 世界构建与笔记
