@@ -138,6 +138,7 @@ This list collects tools related to novel / fiction writing:
 - [AutoCrit](https://autocrit.com) - Fiction-specific editing tool: scene pacing, dialogue, strong verbs and other fiction-focused analysis. (Editing / Web / Trial + subscription)
 - [Hemingway Editor](https://hemingwayapp.com) - Simple English readability checker that highlights long sentences and passive voice (free on web). (Editing / Web+Desktop / Web free, desktop $19.99)
 - [Grammarly](https://www.grammarly.com) - General English grammar checker (not fiction-specific, but widely used). (Editing / Multi-platform / Free tier + subscription)
+- [Revise AI](https://www.revise.net/) - AI writing editor that shows grammar, clarity and style suggestions as tracked changes you accept or reject. (Editing / Web+Chrome extension / Free tier + subscription)
 
 ---
 
