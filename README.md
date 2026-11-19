@@ -138,6 +138,7 @@
 - [AutoCrit](https://autocrit.com) - 小说专用编辑工具：场景节奏、对话、强动词等针对虚构写作的分析。（校对 / Web / 试用+订阅）
 - [Hemingway Editor](https://hemingwayapp.com) - 简洁的英文可读性检查工具，标出过长句与被动语态（网页版免费）。（校对 / Web+桌面 / 网页免费、桌面 $19.99）
 - [Grammarly](https://www.grammarly.com) - 通用英文语法检查（非小说专用，但广泛使用）。（校对 / 多平台 / 免费层+订阅）
+- [Revise AI](https://www.revise.net/) - AI 写作编辑器，将语法、清晰度与文风建议以修订模式（tracked changes）呈现，由你逐条接受或拒绝。（校对 / Web+Chrome 插件 / 免费层+订阅）
 
 ---
 
