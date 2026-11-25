@@ -112,6 +112,7 @@
 - [bibisco](https://github.com/andreafeccomandi/bibisco) - 开源小说写作软件，侧重角色、情节、世界观分析与叙事结构。（写作软件 / 多平台 / 免费开源 GPL-3.0）
 - [纯纯写作](https://writer.drakeet.com) - 安卓端口碑极佳的中文写作应用，专注、防丢失、支持长文。（写作软件 / Android / 免费+Pro）
 - [Typora](https://typora.io) - 简洁的 Markdown 编辑器，适合写作与整理稿子。（写作软件 / 多平台 / 买断制 $14.99）
+- [Writer Studio](https://authr.app/en/) - 可离线使用的桌面小说编辑器，支持场景规划、作品维基、版本历史和稿件导出。（写作软件 / Win·Mac·Linux / 本地功能免费，可选订阅）
 
 ---
 

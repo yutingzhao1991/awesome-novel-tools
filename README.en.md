@@ -112,6 +112,7 @@ This list collects tools related to novel / fiction writing:
 - [bibisco](https://github.com/andreafeccomandi/bibisco) - Open-source novel writing software focused on character, plot, world analysis and narrative structure. (Writing software / Multi-platform / Free, GPL-3.0)
 - [PureWriter (纯纯写作)](https://writer.drakeet.com) - Highly-rated Chinese writing app on Android; focused, loss-proof, long-text support. (Writing software / Android / Free + Pro)
 - [Typora](https://typora.io) - Clean Markdown editor, good for writing and manuscript organization. (Writing software / Multi-platform / One-time $14.99)
+- [Writer Studio](https://authr.app/en/) - Desktop novel editor with offline scene planning, a Book Wiki, version history and manuscript export. (Writing software / Win·Mac·Linux / Free local features + optional subscription)
 
 ---
 
